@@ -1,0 +1,6 @@
+{
+  "name": "Ethio AI Creator",
+  "description": "Amharic AI Text & Image Assistant featuring YouTube Thumbnail creator, Forex analysis assistant, PDF constructor, and Amharic-English translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
